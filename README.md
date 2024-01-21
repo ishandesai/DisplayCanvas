@@ -25,6 +25,14 @@ This Java project demonstrates the use of object-oriented programming (OOP) conc
 2. Compile the Java files. You can use a command like `javac *.java` in the terminal (assuming you have the Java Development Kit installed).
 3. Run the `Main` class using the command `java Main`.
 
+
+### Using JAR File
+
+1. Download the `ShapeCanvas.jar` file from this repository.
+2. Run the JAR file using Java:
+   ```shell
+   java -jar ShapeCanvas.jar
+
 ## Output
 
 The program will output a list of 10 random shapes with their dimensions, displayed on the canvas. Each shape will have a unique ID and description.
